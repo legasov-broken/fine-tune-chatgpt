@@ -1,0 +1,109 @@
+{"messages": [{"role": "system", "content": "Bạn là chatbot của Smartmind (SMDS) - một công ty môi giới chứng khoán, nhiệm vụ của bạn là hỗ trợ khách hàng trả lời những câu hỏi của họ về nền tảng này"}, {"role": "user", "content": "Tôi muốn mở tài khoản chứng khoán tại Smartmind (SMDS)"}, {"role": "assistant", "content": "Bước 1: Truy cập App Store hoặc CH Play, nhập từ khóa “SmartMind” để tải về Hoặc quét mã QR sau để tải App: Bước 2: Truy cập app SmartMind và bắt đầu thao tác mở tài khoản: 2.1. Chọn Mở tài khoản
+2.2. Xem và đồng ý với Chính sách bảo vệ dữ liệu cá nhân để Bắt đầu
+Bước 3:   Tạo thông tin đăng nhập
+3.1. Nhập số điện thoại dùng để đăng nhập
+3.2. Cấp quyền cho Camera để chụp ảnh giấy tờ tùy thân ở bước sau
+3.3. Tạo và xác nhận lại mật khẩu theo  hướng dẫn
+Bước 4:   Thực hiện xác thực eKYC
+4.1. Chụp ảnh CCCD/CMND mặt trước
+4.2. Chụp ảnh CCCD/CMND mặt sau
+4.3. Chụp ảnh khuôn mặt
+Bước 5:   Xác nhận thông tin eKYC
+5.1. Kiểm tra và thực hiện xác nhận nếu thông tin Đúng
+5.2. Chọn Tôi muốn sửa và thực hiện sửa nếu có thông tin chưa chính xác
+Bước 6:    Thêm tài khoản ngân hàng và email
+6.1. Chọn ngân hàng muốn thêm
+6.2. Nhập số tài khoản, hệ thống tự động kiểm tra tên chủ tài khoản. Lưu ý: Sử dụng tài khoản ngân hàng của chính bạn.
+6.3. Nhập email để nhận thông tin từ Smartmind (SMDS)
+Bước 7:     Đăng ký dịch vụ tại Smartmind (SMDS)
+Chọn dịch vụ muốn đăng ký. Lưu ý: Dịch vụ giao dịch trực tuyến được mặc định là Đăng ký
+Bước 8:    Cung cấp các thông tin dành cho việc quản lý tài khoản theo quy định
+8.1. Chọn Nghề nghiệp
+8.2. Chọn Mục tiêu đầu tư
+8.3. Chọn Mức độ chấp nhận rủi ro
+8.4. Chọn khoảng Thu nhập trung bình/năm
+8.5. Chọn trường hợp chịu chi phối, ủy thác
+của người khác (nếu có)
+8.6. Khai báo thêm thông tin nếu thuộc trường hợp chịu sự chi phối, ủy thác của người khác
+Bước 9:    Thực hiện xác nhận và ký Bộ tài liệu mở tài khoản
+9.1. Xác nhận không chịu sự điều chỉnh của luật thuế FATCA
+9.2. Đọc và ký Bộ tài liệu mở tài khoản của Smartmind (SMDS)
+9.3. Xác nhận các nội dung mở tài khoản
+Bước 10:    Thực hiện xác thực OTP để hoàn tất việc mở tài khoản tại Smartmind (SMDS). Đăng nhập để trải nghiệm App Smartmind (SMDS)
+10.1. Nhập mã xác thực OTP được gửi về số điện thoại đã đăng ký
+10.2. Mở tài khoản thành công.
+Lưu ý: Nếu khách hàng có sửa thông tin eKYC, Smartmind (SMDS) sẽ thực hiện rà soát và kích hoạt sau một khoảng thời gian.
+10.3. Đăng nhập vào App bằng số điện thoại và mật khẩu đã đăng ký
+"}]}
+{"messages": [{"role": "system", "content": "Bạn là chatbot của Smartmind (SMDS) - một công ty môi giới chứng khoán, nhiệm vụ của bạn là hỗ trợ khách hàng trả lời những câu hỏi của họ về nền tảng này"}, {"role": "user", "content": "Tôi muốn đăng kí và sử dụng SmartOTP (SOTP)"}, {"role": "assistant", "content": "Bước 1: Khách hàng khi thực hiện đăng nhập lần đầu trên thiết bị mới thành công sẽ được yêu cầu kích hoạt sOTP tại App Smartmind (SMDS). Khách hàng đọc và xác nhận Các điều khoản và điều kiện sOTP để Bắt đầu
+Bước 2: Nhập mã xác thực OTP được gửi về số điện thoại đang được sử dụng làm tài khoản đăng nhập để kích hoạt sOTP
+Bước 3: Tạo và nhập lại mã mở khóa sOTP để sử dụng cho các giao dịch tại App SmartMind
+Bước 4: Đăng ký sOTP thành công, sOTP được sử dụng cho tất cả các giao dịch tại App SmartMind bằng cách sử dụng mã mở khóa đã tạo trước đó để xác thực
+"}]}
+{"messages": [{"role": "system", "content": "Bạn là chatbot của Smartmind (SMDS) - một công ty môi giới chứng khoán, nhiệm vụ của bạn là hỗ trợ khách hàng trả lời những câu hỏi của họ về nền tảng này"}, {"role": "user", "content": "Tôi muốn NẠP TIỀN VÀO TÀI KHOẢN CHỨNG KHOÁN"}, {"role": "assistant", "content": "Bước 1: Truy cập tính năng “Hướng dẫn nạp tiền”
+Bước 2: Quét mã QR bằng app ngân hàng để nạp tiền vào tài khoản chứng khoán
+2.1. Nạp vào tài khoản VAN VPBank của quý khách
+2.2. Hoặc nạp vào tài khoản Kiên Long Bank
+"}]}
+{"messages": [{"role": "system", "content": "Bạn là chatbot của Smartmind (SMDS) - một công ty môi giới chứng khoán, nhiệm vụ của bạn là hỗ trợ khách hàng trả lời những câu hỏi của họ về nền tảng này"}, {"role": "user", "content": "Tôi muốn RÚT TIỀN VỀ TÀI KHOẢN NGÂN HÀNG"}, {"role": "assistant", "content": "Bước 1: Truy cập tính năng Rút tiền:
+Bước 2: Chọn tài khoản ngân hàng đã có sẵn (2.1):
+Hoặc thêm tài khoản mới (2.2):
+2.2.1. Chọn icon Thêm mới (+)
+2.2.2. Chọn ngân hàng muốn thêm
+2.2.3. Nhập số tài khoản của bạn. Hệ thống kiểm tra và trả về tên chủ tài khoản. Lưu ý tài khoản phải chính chủ
+2.2.4. Hệ thống kiểm tra và trả về tên chủ tài khoản. Lưu ý tài khoản phải chính chủ
+2.2.5. Hoàn tất thêm mới tài khoản thụ hưởng, có thể chọn tài khoản vừa thêm trong danh sách để thực hiện rút tiền
+Bước 3: Nhập số tiền rút, lưu ý số tiền rút >=50,000 VND, nhập nội dung rút tiền (nếu có)
+Bước 4: Xác nhận thông tin giao dịch rút tiền
+Bước 5: Nhập mã mở khóa sOTP để thực hiện xác thực
+Bước 6: Giao dịch thành công, kiểm tra tiền đã được nhận về tài khoản ngân hàng
+"}]}
+{"messages": [{"role": "system", "content": "Bạn là chatbot của Smartmind (SMDS) - một công ty môi giới chứng khoán, nhiệm vụ của bạn là hỗ trợ khách hàng trả lời những câu hỏi của họ về nền tảng này"}, {"role": "user", "content": "Tôi muốn giao dịch cổ phiếu"}, {"role": "assistant", "content": "bạn muốn đặt lệnh, sửa lệnh hay hủy lệnh giao dịch cổ phiếu?"},{"role": "user", "content": "Tôi muốn đặt lệnh Cổ phiếu"}, {"role": "assistant", "content": "Bước 1: Truy cập icon đặt lệnh tại trang Home hoặc button Đặt lệnh tại trang Chi tiết cổ phiếu
+Bước 2: Tại màn hình Đặt lệnh, nhập thông tin lệnh đặt:
+Chọn mã Cổ phiếu ở ô tìm kiếm
+Chọn tiểu khoản đặt lệnh
+Chọn loại lệnh có thể đặt theo sàn và phiên hiện tại
+Nhập giá (với lệnh LO) theo quy định về giá thuộc khoảng trần/sàn, bước giá
+Nhập khối lượng mua/bán theo quy định về lô giao chẵn và khối lượng tối đa = 500,000 cổ phiếu.
+Bước 3: Chọn Mua hoặc Bán để đặt lệnh
+Bước 4: Nhập mã mở khóa sOTP để xác thực giao dịch đặt lệnh
+Bước 5: Đặt lệnh thành công, kiểm tra lệnh vừa đặt trong Sổ lệnh
+"},{"role": "user", "content": "Tôi muốn sửa lệnh Cổ phiếu"}, {"role": "assistant", "content": "Bước 1: Chọn lệnh cần Sửa trong Sổ lệnh
+Bước 2: Thực hiện nhập thông tin lệnh sửa
+Bước 3: Nhập mã mở khóa sOTP để xác thực giao dịch Sửa lệnh
+Bước 4: Sửa lệnh thành công, xem lại trạng thái lệnh sửa trong Sổ lệnh
+"}, {"role": "user", "content": "Tôi muốn  hủy lệnh Cổ phiếu"}, {"role": "assistant", "content": "Bước 1: Chọn lệnh cần Hủy trong Sổ lệnh
+Bước 2: Nhập mã mở khóa sOTP để xác thực giao dịch Hủy lệnh
+Bước 3: Hủy lệnh thành công, xem lại trạng thái lệnh Hủy trong Sổ lệnh
+"}]}
+{"messages": [{"role": "system", "content": "Bạn là chatbot của Smartmind (SMDS) - một công ty môi giới chứng khoán, nhiệm vụ của bạn là hỗ trợ khách hàng trả lời những câu hỏi của họ về nền tảng này"}, {"role": "user", "content": "Tôi muốn TẢI TÀI LIỆU LÊN APP SMARTMIND"}, {"role": "assistant", "content": "Bước 1: Truy cập tính năng “Tải lên tài liệu” ​​
+Bước 2: Xem “một số lưu ý khi tải tài liệu” và click “Bắt đầu”
+Bước 3: Cấp quyền truy cập​
+Bước 4: Tải về tài liệu mẫu​​
+4.1. Chọn “Tài liệu mẫu”
+4.2. Chọn và tải về bộ tài liệu mẫu​
+Bước 5: Chọn nghiệp vụ cần tải lên tài liệu​
+Bước 6: Tải lên tài liệu
+6.1. Chọn “+ Chọn tài liệu”
+6.2. Chọn loại tài liệu cần tải lên
+6.3. Chọn tài liệu, sau đó chọn “Tải lên”
+Bước 7: Xác thực sOTP
+Bước 8: Tải lên tài liệu thành công
+"}]}
+{"messages": [{"role": "system", "content": "Bạn là chatbot của Smartmind (SDMS) - một công ty môi giới chứng khoán, nhiệm vụ của bạn là hỗ trợ khách hàng trả lời những câu hỏi của họ về nền tảng này"}, {"role": "user", "content": "Tôi muốn ĐĂNG KÝ TRỞ THÀNH SPARTNER"}, {"role": "assistant", "content": "Bước 1: Đăng nhập Tài khoản chứng khoán
+Bước 2: Click icon sPartner tại trang Home
+Bước 3: Chọn Đăng ký ngay
+Bước 4: Chọn/nhập Kênh và tiến hành ký Hợp đồng sPartner
+Bước 5: Xác thực sOTP để đăng ký
+Bước 6: Đăng ký thành công
+"}, {"role": "user", "content": "Tôi muốn Theo dõi Khách hàng và doanh số spartner"}, {"role": "assistant", "content": "Bước 1: Click icon sPartner tại trang Home
+Bước 2: Xem thông tin của mình khi là sPartner
+Bước 3: Xem Thống kê Doanh số
+Bước 4: Xem Danh mục Khách hàng
+"}]}
+{"messages": [{"role": "system", "content": "Bạn là chatbot của SMDS - một công ty môi giới chứng khoán, nhiệm vụ của bạn là hỗ trợ khách hàng trả lời những câu hỏi của họ về nền tảng này"}, {"role": "user", "content": "Tôi muốn thêm sPartner"}, {"role": "assistant", "content": "Bước 1: Click Tài khoản > sPartner của bạn
+Bước 2: Bấm Chọn sPartner để bắt đầu thêm mới
+Bước 3: Nhập số Tài khoản chứng khoán hoặc quét mã QR của sPartner
+Bước 4: Xác thực sOTP để thêm sPartner tư vấn của mình
+Bước 5: Thêm sPartner thành công
+"}]}
